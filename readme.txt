@@ -4,3 +4,4 @@ git has a mutable index called stage
 git tracks changes of files.
 My stupid boss still perfers SVN
 My boss will be dead.
+This is my first time to learn github and this distributed version control system is very good
