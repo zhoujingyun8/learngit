@@ -6,3 +6,4 @@ My stupid boss still perfers SVN
 My boss will be dead.
 This is my first time to learn github and this distributed version control system is very good
 Creating a new branch is quick
+Creating a new branch is quick & simple.
