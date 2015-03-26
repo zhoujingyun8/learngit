@@ -7,4 +7,7 @@ My boss will be dead.
 This is my first time to learn github and this distributed version control system is very good
 Creating a new branch is quick and simple
 New branch
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
+
+>>>>>>> feature1
