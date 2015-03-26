@@ -8,4 +8,4 @@ This is my first time to learn github and this distributed version control syste
 Creating a new branch is quick and simple
 New branch
 Creating a new branch is quick and simple.
-
+Git can merges branches.
